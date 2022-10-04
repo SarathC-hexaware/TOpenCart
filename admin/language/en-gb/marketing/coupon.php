@@ -39,6 +39,9 @@ $_['entry_date_end']      = 'Date End';
 $_['entry_uses_total']    = 'Uses Per Coupon';
 $_['entry_uses_customer'] = 'Uses Per Customer';
 $_['entry_status']        = 'Status';
+$_['entry_currency']      = 'Currency';
+$_['text_INR']       	  = 'INR';
+$_['text_USD']            = 'USD';
 
 // Help
 $_['help_code']           = 'The code the customer enters to get the discount.';
