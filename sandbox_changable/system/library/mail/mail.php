@@ -77,4 +77,4 @@ class Mail {
 			mail($to, '=?UTF-8?B?' . base64_encode($this->subject) . '?=', $message, $header);
 		}
 	}
-}
+} 
